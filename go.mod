@@ -3,7 +3,7 @@ module github.com/smallerqiu/fhttp
 go 1.20
 
 require (
-	github.com/smallerqiu/utls v1.0.0
+	github.com/smallerqiu/utls v1.0.4
 	github.com/andybalholm/brotli v1.0.6
 	golang.org/x/net v0.20.0
 	golang.org/x/term v0.16.0
